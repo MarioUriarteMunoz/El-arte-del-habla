@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    
+    <!-- Outer accent drop shadow -->
+    <path
+        android:fillColor="#1E293B"
+        android:pathData="M 36,30 Q 32,30 32,34 L 32,70 Q 32,74 36,74 L 48,74 L 56,84 L 64,74 L 76,74 Q 80,74 80,70 L 80,34 Q 80,30 76,30 Z" />
+
+    <!-- Pure white Chat Bubble -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M 34,28 Q 30,28 30,32 L 30,68 Q 30,72 34,72 L 46,72 L 54,82 L 62,72 L 74,72 Q 78,72 78,68 L 78,32 Q 78,28 74,28 Z" />
+
+    <!-- Distinct Teal '5' inside to represent Conecta5 -->
+    <path
+        android:fillColor="#0D9488"
+        android:pathData="M 46,40 L 59,40 L 58,47 L 51,47 Q 56,47 56,52 Q 56,58 50,58 Q 45,58 45,52 L 49.5,52 Q 49.5,54.5 50,54.5 Q 51.5,54.5 51.5,52 Q 51.5,49.5 50,49.5 L 45,49.5 Z" />
+        
+</vector>

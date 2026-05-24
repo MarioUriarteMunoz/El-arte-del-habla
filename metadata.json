@@ -1,0 +1,6 @@
+{
+  "name": "Conecta5",
+  "description": "Desafíos de elocuencia y carisma de 5 minutos alimentados por IA para potenciar tus habilidades sociales.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
